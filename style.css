@@ -145,6 +145,7 @@ HERO
   background-repeat: no-repeat;
   /* background-size: contain; */
   height: 100vh;
+background-attachment: fixed;
   /* transform: translate(-50%, 50%); */
   margin-bottom: 9.6rem;
 }

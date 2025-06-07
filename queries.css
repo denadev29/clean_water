@@ -115,7 +115,11 @@ Below 544px(phones)
   text-align: center;
  
 }   
+.hero {
+background-position: center;
+aspect-ratio: auto;
 
+}
 .heading-primary {
   font-size: 3.6rem;
   
